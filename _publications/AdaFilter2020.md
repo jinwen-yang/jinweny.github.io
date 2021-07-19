@@ -1,9 +1,9 @@
 ---
 title: "Detecting Multiple Replicating Signals using Adaptive Filtering Procedures"
 collection: Preprint
-permalink: /publication/2020-paper-adafilter
+permalink: /publication/adafilter
 date: 2020-03-24
-venue: 'Journal 1'
+venue: 'ArXiv'
 paperurl: 'https://arxiv.org/abs/1610.03330'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+citation: 'Jingshu Wang, Lin Gui, Weijie J. Su, Chiara Sabatti, Art B. Owen (2020). Detecting Multiple Replicating Signals using Adaptive Filtering Procedures. ArXiv.'
 ---
