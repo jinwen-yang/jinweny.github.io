@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
+About me
+====
 I am a first year PhD student in the Department of Statistics at the University of Chicago.
 <!-- [Victor Veitch](http://victorveitch.com/) 
 [Jingshu Wang](https://jingshuw.org/) -->
