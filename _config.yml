@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Lin Gui"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Lin Gui"
 description              : &description "personal description"
 url                      : https://gl-ybnbxb.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -181,9 +181,9 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  portfolio:
-    output: true
-    permalink: /:collection/:path/
+#   portfolio:
+#     output: true
+#     permalink: /:collection/:path/
   talks:
     output: true
     permalink: /:collection/:path/
