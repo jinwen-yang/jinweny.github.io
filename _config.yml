@@ -86,6 +86,7 @@ author:
   location         : "Univeristy of Chicago"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  email            : "glin6@uchicago.edu"
   googlescholar    : "https://scholar.google.com/citations?user=88eaL8UAAAAJ&hl=en&oi=sra"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
