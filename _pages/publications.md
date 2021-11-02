@@ -5,12 +5,6 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+### Publications
 
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+- Jingshu Wang, **Lin Gui**, Weijie J. Su, Chiara Sabatti, Art B. Owen (2021). Detecting Multiple Replicating Signals using Adaptive Filtering Procedures. Annals of Statistics (to appear). [Preprint](https://arxiv.org/abs/1610.03330)
