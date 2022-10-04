@@ -8,4 +8,4 @@ author_profile: true
 <!-- ### Publications -->
 
 - Jingshu Wang, **Lin Gui**, Weijie J. Su, Chiara Sabatti, Art B. Owen (2022). Detecting Multiple Replicating Signals using Adaptive Filtering Procedures. *The Annals of Statistics*. [[Preprint](https://arxiv.org/abs/1610.03330)] [[Paper](https://projecteuclid.org/journals/annals-of-statistics/volume-50/issue-4/Detecting-multiple-replicating-signals-using-adaptive-filtering-procedures/10.1214/21-AOS2139.short)]
-- **Lin Gui**, Victor Veitch (2022). Causal Estimation for Text Data with (Apparent) Overlap Violations. [[Preprint](https://arxiv.org/abs/2210.00079)]
+- **Lin Gui**, Victor Veitch (2022). Causal Estimation for Text Data with (Apparent) Overlap Violations. *ArXiv:2210.000798*. [[Preprint](https://arxiv.org/abs/2210.00079)]
