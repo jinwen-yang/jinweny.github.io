@@ -16,6 +16,16 @@
     {% endif %} -->
   </div>
 
+  <script>
+    document.addEventListener("DOMContentLoaded", function() {
+      var authorAvatars = {{ author.avatar | jsonify }};
+      var randomAvatar = authorAvatars[Math.floor(Math.random() * authorAvatars.length)];
+      var basePath = "{{ base_path }}";
+      var fullPath = randomAvatar.includes("://") ? randomAvatar : basePath + '/images/' + randomAvatar;
+      document.getElementById("dynamicAuthorAvatar").src = fullPath;
+    });
+  </script>
+
   <div class="author__content">
     <h3 class="author__name">{{ author.name }}</h3>
     {% if author.bio %}<p class="author__bio">{{ author.bio }}</p>{% endif %}
@@ -123,13 +133,3 @@
     </ul>
   </div>
 </div>
-        
-<script>
-  document.addEventListener("DOMContentLoaded", function() {
-    var authorAvatars = {{ author.avatar | jsonify }};
-    var randomAvatar = authorAvatars[Math.floor(Math.random() * authorAvatars.length)];
-    var basePath = "{{ base_path }}";
-    var fullPath = randomAvatar.includes("://") ? randomAvatar : basePath + '/images/' + randomAvatar;
-    document.getElementById("dynamicAuthorAvatar").src = fullPath;
-  });
-</script>
