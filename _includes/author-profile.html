@@ -7,12 +7,13 @@
 <div itemscope itemtype="http://schema.org/Person">
 
   <div class="author__avatar">
-    {% if author.avatar contains "://" %}
+    <img id="dynamicAuthorAvatar" src="{{ author.avatar | first | prepend: "/images/" | prepend: base_path }}" class="author__avatar" alt="{{ author.name }}">
+<!--     {% if author.avatar contains "://" %}
       {% assign random_avatar = author.avatar | sample %}
     	<img src="{{ random_avatar }}" alt="{{ author.name }}">
     {% else %}
     	<img id='dynamicAuthorAvatar" src="{{ author.avatar | first | prepend: "/images/" | prepend: base_path }}" class="author__avatar" alt="{{ author.name }}">
-    {% endif %}
+    {% endif %} -->
   </div>
 
   <div class="author__content">
