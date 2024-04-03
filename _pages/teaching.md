@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Teaching assistant at University of Chicago"
+title: "Teaching Assistant at University of Chicago"
 permalink: /teaching/
 author_profile: true
 ---
