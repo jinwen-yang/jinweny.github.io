@@ -10,7 +10,7 @@ redirect_from:
 
 About me
 ====
-I am a Ph.D. student in the [Department of Statistics](https://stat.uchicago.edu/) at the University of Chicago. My advisor is [Haihao (Sean) Lu](https://faculty.chicagobooth.edu/haihao-lu). Previously, I obtained my B.S. in Mathematics and Applied Mathematics from Fudan University. 
+I am a Ph.D. student in the [Department of Statistics](https://stat.uchicago.edu/) at University of Chicago. My advisor is [Haihao (Sean) Lu](https://faculty.chicagobooth.edu/haihao-lu). Previously, I obtained my B.S. in Mathematics and Applied Mathematics from Fudan University. 
 
 
  
