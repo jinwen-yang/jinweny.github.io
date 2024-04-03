@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Lin Gui"
+title                    : "Jinwen Yang"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
-url                      : https://gl-ybnbxb.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://jinwen-yang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "gl-ybnbxb/gl-ybnbxb.github.io"
+repository               : "jinwen-yang/jinwen-yang.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,20 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Lin Gui (桂林)"
+  name             : "Jinwen Yang"
   avatar           : 
     - "profile1.jpg"
-    - "profile2.jpg"
-    - "profile3.jpg"
-    - "profile4.JPG"
-    - "profile5.jpg"
-    - "profile6.jpg"
   bio              : "Statistics PhD @ UChicago"
   location         : "The Univeristy of Chicago"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  email            : "glin6@uchicago.edu"
-  googlescholar    : "https://scholar.google.com/citations?user=88eaL8UAAAAJ&hl=en&oi=sra"
+  email            : "jinweny@uchicago.edu"
+  googlescholar    : 
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -102,7 +97,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "gl-ybnbxb"
+  github           : "jinwen-yang"
   google_plus      :
   keybase          :
   instagram        :
