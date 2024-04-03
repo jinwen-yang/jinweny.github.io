@@ -1,13 +1,13 @@
 ---
 layout: archive
-title: "Teaching"
+title: "Teaching assistant at University of Chicago"
 permalink: /teaching/
 author_profile: true
 ---
 
 <!-- Teaching -->
 
-Teaching assistant at University of Chicago
+
 
 - STAT 22000 Statistical Methods and Applications, Winter 2021, Spring 2021, Autumn 2021, Spring 2023
 - STAT 32945 Multivariate Statistical Analysis: Applications and Techniques, Spring 2022
