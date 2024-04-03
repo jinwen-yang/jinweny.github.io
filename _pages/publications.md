@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-<!-- ### Selected Publications -->
+<!-- Selected Publications -->
 
 - **cuPDLP-C: A Strengthened Implementation of cuPDLP for Linear Programming by C language**, with Haihao Lu, Haodong Hu, Qi Huangfu, Jinsong Liu, Tianhao Liu, Yinyu Ye, Chuwen Zhang and Dongdong Ge. [[Preprint](https://arxiv.org/abs/2312.14832)] [[Github](https://github.com/COPT-Public/cuPDLP-C)]
 - **cuPDLP. jl: A GPU implementation of restarted primal-dual hybrid gradient for linear programming in Julia**, with Haihao Lu. [[Preprint](https://arxiv.org/abs/2311.12180)] [[Github](https://github.com/jinwen-yang/cuPDLP.jl)]
